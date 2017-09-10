@@ -1,0 +1,2 @@
+c:\users\ahmed\documents\visual studio 2015\Projects\AccessToMySQL\AccessToMySQL\bin\Debug\AccessToMySQL.exe.config
+c:\users\ahmed\documents\visual studio 2015\Projects\AccessToMySQL\AccessToMySQL\obj\Debug\AccessToMySQL.csprojResolveAssemblyReference.cache

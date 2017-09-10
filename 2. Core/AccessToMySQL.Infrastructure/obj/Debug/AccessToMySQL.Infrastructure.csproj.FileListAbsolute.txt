@@ -1,0 +1,6 @@
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\AccessToMySQL\2. Core\AccessToMySQL.Infrastructure\bin\Debug\AccessToMySQL.Infrastructure.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\AccessToMySQL\2. Core\AccessToMySQL.Infrastructure\bin\Debug\AccessToMySQL.Infrastructure.pdb
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\AccessToMySQL\2. Core\AccessToMySQL.Infrastructure\bin\Debug\log4net.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\AccessToMySQL\2. Core\AccessToMySQL.Infrastructure\obj\Debug\AccessToMySQL.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\AccessToMySQL\2. Core\AccessToMySQL.Infrastructure\obj\Debug\AccessToMySQL.Infrastructure.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\AccessToMySQL\2. Core\AccessToMySQL.Infrastructure\obj\Debug\AccessToMySQL.Infrastructure.pdb

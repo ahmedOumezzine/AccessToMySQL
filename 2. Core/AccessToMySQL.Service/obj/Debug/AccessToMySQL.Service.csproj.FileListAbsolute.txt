@@ -1,0 +1,5 @@
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\AccessToMySQL\2. Core\AccessToMySQL.Service\bin\Debug\AccessToMySQL.Service.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\AccessToMySQL\2. Core\AccessToMySQL.Service\bin\Debug\AccessToMySQL.Service.pdb
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\AccessToMySQL\2. Core\AccessToMySQL.Service\obj\Debug\AccessToMySQL.Service.dll
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\AccessToMySQL\2. Core\AccessToMySQL.Service\obj\Debug\AccessToMySQL.Service.pdb
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\AccessToMySQL\2. Core\AccessToMySQL.Service\obj\Debug\AccessToMySQL.Service.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\AccessToMySQL\1. WindowsService\AccessToMySQL.WindowsService\bin\Debug\AccessToMySQL.WindowsService.exe.config
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\AccessToMySQL\1. WindowsService\AccessToMySQL.WindowsService\bin\Debug\AccessToMySQL.WindowsService.exe
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\AccessToMySQL\1. WindowsService\AccessToMySQL.WindowsService\bin\Debug\AccessToMySQL.WindowsService.pdb
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\AccessToMySQL\1. WindowsService\AccessToMySQL.WindowsService\obj\Debug\AccessToMySQL.WindowsService.csprojResolveAssemblyReference.cache
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\AccessToMySQL\1. WindowsService\AccessToMySQL.WindowsService\obj\Debug\AccessToMySQL.WindowsService.exe
+C:\Users\ahmed\Documents\Visual Studio 2015\Projects\AccessToMySQL\1. WindowsService\AccessToMySQL.WindowsService\obj\Debug\AccessToMySQL.WindowsService.pdb
