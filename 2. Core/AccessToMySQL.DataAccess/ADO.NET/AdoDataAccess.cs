@@ -114,7 +114,7 @@ namespace AccessToMySQL.DataAccess.ADO.NET
         }
 
 
-        private void GetTables(List<Table> arrTables)
+        public void GetTables(List<Table> arrTables)
         {
             // temporary holder for the schema information for the current
             // database connection

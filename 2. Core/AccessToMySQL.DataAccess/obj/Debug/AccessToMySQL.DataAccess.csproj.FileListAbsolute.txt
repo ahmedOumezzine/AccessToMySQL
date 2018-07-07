@@ -7,3 +7,13 @@ C:\Users\ahmed\Documents\Visual Studio 2015\Projects\AccessToMySQL\2. Core\Acces
 C:\Users\ahmed\Documents\Visual Studio 2015\Projects\AccessToMySQL\2. Core\AccessToMySQL.DataAccess\bin\Debug\AccessToMySQL.Entities.pdb
 C:\Users\ahmed\Documents\Visual Studio 2015\Projects\AccessToMySQL\2. Core\AccessToMySQL.DataAccess\bin\Debug\MySql.Data.dll
 C:\Users\ahmed\Documents\Visual Studio 2015\Projects\AccessToMySQL\2. Core\AccessToMySQL.DataAccess\bin\Debug\MySql.Data.xml
+C:\Users\ahmed\Source\Repos\AccessToMySQL\2. Core\AccessToMySQL.DataAccess\obj\Debug\AccessToMySQL.DataAccess.csprojAssemblyReference.cache
+C:\Users\ahmed\Source\Repos\AccessToMySQL\2. Core\AccessToMySQL.DataAccess\obj\Debug\AccessToMySQL.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Source\Repos\AccessToMySQL\2. Core\AccessToMySQL.DataAccess\obj\Debug\AccessToMySQL.DataAccess.dll
+C:\Users\ahmed\Source\Repos\AccessToMySQL\2. Core\AccessToMySQL.DataAccess\obj\Debug\AccessToMySQL.DataAccess.pdb
+C:\Users\ahmed\Source\Repos\AccessToMySQL\2. Core\AccessToMySQL.DataAccess\bin\Debug\AccessToMySQL.DataAccess.dll
+C:\Users\ahmed\Source\Repos\AccessToMySQL\2. Core\AccessToMySQL.DataAccess\bin\Debug\AccessToMySQL.DataAccess.pdb
+C:\Users\ahmed\Source\Repos\AccessToMySQL\2. Core\AccessToMySQL.DataAccess\bin\Debug\AccessToMySQL.Entities.dll
+C:\Users\ahmed\Source\Repos\AccessToMySQL\2. Core\AccessToMySQL.DataAccess\bin\Debug\AccessToMySQL.Entities.pdb
+C:\Users\ahmed\Source\Repos\AccessToMySQL\2. Core\AccessToMySQL.DataAccess\bin\Debug\MySql.Data.xml
+C:\Users\ahmed\Source\Repos\AccessToMySQL\2. Core\AccessToMySQL.DataAccess\obj\Debug\AccessToMySQL.DataAccess.csproj.CopyComplete

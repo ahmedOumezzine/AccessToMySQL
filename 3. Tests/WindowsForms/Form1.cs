@@ -59,5 +59,10 @@ namespace WindowsForms
             openFile.ShowDialog();
             txtAccessSystemDB.Text = openFile.FileName;
         }
+
+        private void btnAccessOK_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

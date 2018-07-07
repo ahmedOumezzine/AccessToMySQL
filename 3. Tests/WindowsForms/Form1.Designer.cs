@@ -207,6 +207,7 @@
             this.btnAccessOK.TabIndex = 35;
             this.btnAccessOK.Text = "OK";
             this.btnAccessOK.UseVisualStyleBackColor = false;
+            this.btnAccessOK.Click += new System.EventHandler(this.btnAccessOK_Click);
             // 
             // txtAccessProvider
             // 

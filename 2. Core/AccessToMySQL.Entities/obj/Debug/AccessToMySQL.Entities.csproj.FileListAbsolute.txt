@@ -3,3 +3,8 @@ C:\Users\ahmed\Documents\Visual Studio 2015\Projects\AccessToMySQL\2. Core\Acces
 C:\Users\ahmed\Documents\Visual Studio 2015\Projects\AccessToMySQL\2. Core\AccessToMySQL.Entities\obj\Debug\AccessToMySQL.Entities.dll
 C:\Users\ahmed\Documents\Visual Studio 2015\Projects\AccessToMySQL\2. Core\AccessToMySQL.Entities\obj\Debug\AccessToMySQL.Entities.pdb
 C:\Users\ahmed\Documents\Visual Studio 2015\Projects\AccessToMySQL\2. Core\AccessToMySQL.Entities\obj\Debug\AccessToMySQL.Entities.csprojResolveAssemblyReference.cache
+C:\Users\ahmed\Source\Repos\AccessToMySQL\2. Core\AccessToMySQL.Entities\bin\Debug\AccessToMySQL.Entities.dll
+C:\Users\ahmed\Source\Repos\AccessToMySQL\2. Core\AccessToMySQL.Entities\bin\Debug\AccessToMySQL.Entities.pdb
+C:\Users\ahmed\Source\Repos\AccessToMySQL\2. Core\AccessToMySQL.Entities\obj\Debug\AccessToMySQL.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Source\Repos\AccessToMySQL\2. Core\AccessToMySQL.Entities\obj\Debug\AccessToMySQL.Entities.dll
+C:\Users\ahmed\Source\Repos\AccessToMySQL\2. Core\AccessToMySQL.Entities\obj\Debug\AccessToMySQL.Entities.pdb

@@ -13,3 +13,20 @@ C:\Users\ahmed\Documents\Visual Studio 2015\Projects\AccessToMySQL\3. Tests\Wind
 C:\Users\ahmed\Documents\Visual Studio 2015\Projects\AccessToMySQL\3. Tests\WindowsForms\bin\Debug\AccessToMySQL.Entities.pdb
 C:\Users\ahmed\Documents\Visual Studio 2015\Projects\AccessToMySQL\3. Tests\WindowsForms\bin\Debug\MySql.Data.dll
 C:\Users\ahmed\Documents\Visual Studio 2015\Projects\AccessToMySQL\3. Tests\WindowsForms\bin\Debug\MySql.Data.xml
+C:\Users\ahmed\Source\Repos\AccessToMySQL\3. Tests\WindowsForms\obj\Debug\WindowsForms.csprojAssemblyReference.cache
+C:\Users\ahmed\Source\Repos\AccessToMySQL\3. Tests\WindowsForms\obj\Debug\WindowsForms.Form1.resources
+C:\Users\ahmed\Source\Repos\AccessToMySQL\3. Tests\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+C:\Users\ahmed\Source\Repos\AccessToMySQL\3. Tests\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+C:\Users\ahmed\Source\Repos\AccessToMySQL\3. Tests\WindowsForms\obj\Debug\WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Source\Repos\AccessToMySQL\3. Tests\WindowsForms\obj\Debug\WindowsForms.exe
+C:\Users\ahmed\Source\Repos\AccessToMySQL\3. Tests\WindowsForms\obj\Debug\WindowsForms.pdb
+C:\Users\ahmed\Source\Repos\AccessToMySQL\3. Tests\WindowsForms\bin\Debug\WindowsForms.exe.config
+C:\Users\ahmed\Source\Repos\AccessToMySQL\3. Tests\WindowsForms\bin\Debug\WindowsForms.exe
+C:\Users\ahmed\Source\Repos\AccessToMySQL\3. Tests\WindowsForms\bin\Debug\WindowsForms.pdb
+C:\Users\ahmed\Source\Repos\AccessToMySQL\3. Tests\WindowsForms\bin\Debug\AccessToMySQL.DataAccess.dll
+C:\Users\ahmed\Source\Repos\AccessToMySQL\3. Tests\WindowsForms\bin\Debug\AccessToMySQL.Entities.dll
+C:\Users\ahmed\Source\Repos\AccessToMySQL\3. Tests\WindowsForms\bin\Debug\MySql.Data.dll
+C:\Users\ahmed\Source\Repos\AccessToMySQL\3. Tests\WindowsForms\bin\Debug\AccessToMySQL.DataAccess.pdb
+C:\Users\ahmed\Source\Repos\AccessToMySQL\3. Tests\WindowsForms\bin\Debug\AccessToMySQL.Entities.pdb
+C:\Users\ahmed\Source\Repos\AccessToMySQL\3. Tests\WindowsForms\bin\Debug\MySql.Data.xml
+C:\Users\ahmed\Source\Repos\AccessToMySQL\3. Tests\WindowsForms\obj\Debug\WindowsForms.csproj.CopyComplete
